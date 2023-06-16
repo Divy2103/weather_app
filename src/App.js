@@ -4,7 +4,7 @@ import CurrentLocation from "./Components/CurrentLocation";
 function App() {
  
   return (
-    <div className="col-md-12">
+    <div>
        <CurrentLocation/>
     </div>
   );
